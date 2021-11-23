@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -48,4 +47,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 =======
 # react-blueprint
 react-blueprint
->>>>>>> 6e596388870c0f7c4a12e980a5de44a20c836439
